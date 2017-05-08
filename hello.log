@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.5)  5 MAY 2017 17:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.5)  8 MAY 2017 11:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -240,41 +240,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <webwxgetmsgimg.jpeg, id=1, 963.6pt x 1284.8pt>
 File: webwxgetmsgimg.jpeg Graphic file (type jpg)
  <use webwxgetmsgimg.jpeg>
-Package pdftex.def Info: webwxgetmsgimg.jpeg used on input line 19.
+Package pdftex.def Info: webwxgetmsgimg.jpeg used on input line 20.
 (pdftex.def)             Requested size: 75.28107pt x 100.37537pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
 
-[1
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+ [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./webwx
 getmsgimg.jpeg>] [2] (./hello.aux) ) 
 Here is how much of TeX's memory you used:
- 2514 strings out of 493014
- 33362 string characters out of 6133352
- 95515 words of memory out of 5000000
- 6027 multiletter control sequences out of 15000+600000
- 10773 words of font info for 39 fonts, out of 8000000 for 9000
+ 2533 strings out of 493014
+ 33688 string characters out of 6133352
+ 96515 words of memory out of 5000000
+ 6043 multiletter control sequences out of 15000+600000
+ 11030 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,6n,28p,233b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/arphic/gbsnu/gbsnu4e.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arph
-ic/gbsnu/gbsnu4f.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbs
-nu/gbsnu53.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbs
-nu5d.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/arphic/gbsnu/gbsnu80.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/arphic/gbsnu/gbsnu98.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
-e1/arphic/gbsnu/gbsnu9a.pfb>
-Output written on hello.pdf (2 pages, 142771 bytes).
+1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/arphic/gbsnu/gbsnu4e.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphi
+c/gbsnu/gbsnu4f.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsn
+u/gbsnu53.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
+u5d.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/arphic/gbsnu/gbsnu80.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/arphic/gbsnu/gbsnu98.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/arphic/gbsnu/gbsnu9a.pfb>
+Output written on hello.pdf (2 pages, 149977 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
+ 80 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
