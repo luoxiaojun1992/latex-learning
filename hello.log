@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.5)  8 MAY 2017 11:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.8)  13 MAY 2017 16:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -254,34 +254,59 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./webwx
 getmsgimg.jpeg>] [2] (./hello.aux) ) 
 Here is how much of TeX's memory you used:
- 2533 strings out of 493014
- 33688 string characters out of 6133352
- 96515 words of memory out of 5000000
- 6043 multiletter control sequences out of 15000+600000
- 11030 words of font info for 40 fonts, out of 8000000 for 9000
+ 2662 strings out of 493014
+ 35871 string characters out of 6133352
+ 98515 words of memory out of 5000000
+ 6145 multiletter control sequences out of 15000+600000
+ 21423 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,6n,28p,233b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
-/arphic/gbsnu/gbsnu4e.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphi
-c/gbsnu/gbsnu4f.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsn
-u/gbsnu53.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
-u5d.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pf
-b></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb></usr/local/texlive/20
-16/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb></usr/local/texlive/2016/tex
-mf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb></usr/local/texlive/2016/texmf-dis
-t/fonts/type1/arphic/gbsnu/gbsnu80.pfb></usr/local/texlive/2016/texmf-dist/font
-s/type1/arphic/gbsnu/gbsnu98.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/arphic/gbsnu/gbsnu9a.pfb>
-Output written on hello.pdf (2 pages, 149977 bytes).
+/arphic/gbsnu/gbsnu30.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphi
+c/gbsnu/gbsnu4e.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsn
+u/gbsnu4f.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
+u51.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu53.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu54.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu59.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/arphic/gbsnu/gbsnu5e.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/arphic/gbsnu/gbsnu5f.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/arphic/gbsnu/gbsnu60.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arph
+ic/gbsnu/gbsnu62.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbs
+nu/gbsnu65.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbs
+nu66.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu75.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/arphic/gbsnu/gbsnu78.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/arphic/gbsnu/gbsnu79.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/arphic/gbsnu/gbsnu7a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnu7b.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gb
+snu/gbsnu7c.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gb
+snu7e.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.
+pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu81.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu87.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu91.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu94.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu96.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/arphic/gbsnu/gbsnu98.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/arphic/gbsnu/gbsnu9a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnuff.pfb>
+Output written on hello.pdf (2 pages, 228132 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 189 PDF objects out of 1000 (max. 8388607)
+ 138 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
